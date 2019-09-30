@@ -1,0 +1,11 @@
+What is inheritance?
+	- Acquiring properties from parent to child
+How java used Inheritance?
+	- By Extending a Class - extends
+	- By Implement an Interface - implements
+
+9/30:
+- JVM 1.8 and 1.7
+- Interfaces
+- Access Specifiers
+- Inheritance through classes and interfaces
