@@ -1,0 +1,16 @@
+ClassName: Should start with UpperCase Letter. 
+methodName: should start with small Letter and follow the camel case
+variableName: should start with small Letter and follow the camel case
+CONSTANTS : All should be in caps
+
+Program should be well formatted
+
+static variables can be accessed through static methods only.
+If you want to call instance(non static) methods you have to create an object for the class.
+
+Practice Examples: 
+create one more inheritance example - Multiple Inheritance
+Static and Non static - 
+this and super keywords 
+
+
